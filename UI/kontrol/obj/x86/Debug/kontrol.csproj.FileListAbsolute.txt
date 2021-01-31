@@ -1,0 +1,11 @@
+E:\Proje\son\kontrol\kontrol\bin\Debug\kontrol.exe
+E:\Proje\son\kontrol\kontrol\bin\Debug\kontrol.pdb
+E:\Proje\son\kontrol\kontrol\bin\Debug\umng.dll
+E:\Proje\son\kontrol\kontrol\bin\Debug\UsbLibrary.dll
+E:\Proje\son\kontrol\kontrol\bin\Debug\UsbLibrary.xml
+E:\Proje\son\kontrol\kontrol\obj\x86\Debug\kontrol.csprojResolveAssemblyReference.cache
+E:\Proje\son\kontrol\kontrol\obj\x86\Debug\kontrol.Form1.resources
+E:\Proje\son\kontrol\kontrol\obj\x86\Debug\kontrol.Properties.Resources.resources
+E:\Proje\son\kontrol\kontrol\obj\x86\Debug\kontrol.csproj.GenerateResource.Cache
+E:\Proje\son\kontrol\kontrol\obj\x86\Debug\kontrol.exe
+E:\Proje\son\kontrol\kontrol\obj\x86\Debug\kontrol.pdb
